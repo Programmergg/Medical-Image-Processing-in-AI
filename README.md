@@ -26,4 +26,12 @@ DeepLab: [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atr
 
 UNeXt: [UNeXt: MLP-based Rapid Medical Image Segmentation Network] https://arxiv.org/abs/2203.04967
 
-All of the aforementioned papers are outstanding achievements and warrant a thorough reading. Moreover, under necessary circumstances, search for their official implementations on GitHub and refer to their training processes. We have integrated these models into the model.py file for reference purposes only.
+All of the aforementioned papers are outstanding achievements and warrant a thorough reading. Moreover, under necessary circumstances, search for their official implementations on GitHub and refer to their training processes. We have integrated these models into this repo for reference purposes only.
+
+Secondly, as for utilizing prompts through the SAM model, you need to master the following papers and code repositories.
+
+SAM: [Segment Anything] https://arxiv.org/abs/2304.02643
+
+SAM Code Repo: https://github.com/facebookresearch/segment-anything
+
+
