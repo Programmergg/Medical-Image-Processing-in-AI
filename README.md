@@ -1,4 +1,4 @@
-# Medical-Image-Processing
+# Introduction to Medical Image Processing in AI
 
 Firstly, if you wish to get started with medical image processing, it is necessary to learn a machine learning language. Nowadays, the prevalent machine learning languages include TensorFlow, JAX, and Torch. We recommend Torch as your entry-level language here, due to its abundance of open-source projects and deployment tutorials.
 
