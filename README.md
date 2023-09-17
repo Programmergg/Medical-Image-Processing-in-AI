@@ -34,4 +34,4 @@ SAM: [Segment Anything] https://arxiv.org/abs/2304.02643
 
 SAM Code Repo: https://github.com/facebookresearch/segment-anything
 
-
+For developments regarding the application of SAM in medical segmentation, please refer to the content in this repository (https://github.com/AxDante/awesome-segment-anything-medical-images).
