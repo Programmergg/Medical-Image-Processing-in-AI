@@ -10,3 +10,6 @@ Indeed, you do not need to learn every detail in Python and Torch; a general und
 
 Presently, medical image processing encompasses areas including segmentation, registration, molecular construction, and others. Here, we will provide a brief introduction to the content concerning segmentation. Current medical image segmentation falls generally into two major categories: optimization of medium and small-scale models based on directions such as UNet, SegFormer, and others. And another direction rooted in prompts based on the SAM model.
 
+Firstly, the reference materials needed for the first direction are as follows (paper name and url):
+
+UNet: [U-Net: Convolutional Networks for Biomedical Image Segmentation] https://arxiv.org/abs/1505.04597
