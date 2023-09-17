@@ -8,5 +8,5 @@ Torch: https://www.youtube.com/watch?v=rDhBcP4ikpA&list=PLDzdzeKX7DWep2KyJwJ-BmY
 
 Indeed, you do not need to learn every detail in Python and Torch; a general understanding of data manipulation therein is usually sufficient. You can refer to the API for queries as you use it moving forward.
 
-Presently, medical image processing encompasses areas including segmentation, registration, molecular construction, and others. Here, we will provide a brief introduction to the content concerning segmentation. Current medical image segmentation falls generally into two major categories: optimization of medium and small-scale models based on directions such as UNet, SegFormer, and others; and another direction rooted in prompts based on the SAM model.
+Presently, medical image processing encompasses areas including segmentation, registration, molecular construction, and others. Here, we will provide a brief introduction to the content concerning segmentation. Current medical image segmentation falls generally into two major categories: optimization of medium and small-scale models based on directions such as UNet, SegFormer, and others. And another direction rooted in prompts based on the SAM model.
 
